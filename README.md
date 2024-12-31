@@ -7,7 +7,7 @@ The **Examination System** is a console-based application designed to manage and
 
 ## Features
 1. **Question Management**:
-   - Create and manage multiple question types (True/False, Choose All).
+   - Create and manage multiple question types (True/False Questions, MCQ Questions).
 
 2. **Answer Management**:
    - Store answers in an organized list associated with questions.
