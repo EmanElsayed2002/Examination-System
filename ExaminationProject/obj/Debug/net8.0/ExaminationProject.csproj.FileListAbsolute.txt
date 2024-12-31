@@ -1,0 +1,14 @@
+D:\ExaminationProject\bin\Debug\net8.0\ExaminationProject.exe
+D:\ExaminationProject\bin\Debug\net8.0\ExaminationProject.deps.json
+D:\ExaminationProject\bin\Debug\net8.0\ExaminationProject.runtimeconfig.json
+D:\ExaminationProject\bin\Debug\net8.0\ExaminationProject.dll
+D:\ExaminationProject\bin\Debug\net8.0\ExaminationProject.pdb
+D:\ExaminationProject\obj\Debug\net8.0\ExaminationProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExaminationProject\obj\Debug\net8.0\ExaminationProject.AssemblyInfoInputs.cache
+D:\ExaminationProject\obj\Debug\net8.0\ExaminationProject.AssemblyInfo.cs
+D:\ExaminationProject\obj\Debug\net8.0\ExaminationProject.csproj.CoreCompileInputs.cache
+D:\ExaminationProject\obj\Debug\net8.0\ExaminationProject.dll
+D:\ExaminationProject\obj\Debug\net8.0\refint\ExaminationProject.dll
+D:\ExaminationProject\obj\Debug\net8.0\ExaminationProject.pdb
+D:\ExaminationProject\obj\Debug\net8.0\ExaminationProject.genruntimeconfig.cache
+D:\ExaminationProject\obj\Debug\net8.0\ref\ExaminationProject.dll
