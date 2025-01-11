@@ -32,6 +32,7 @@ namespace ExaminationProject
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"\t\t\t\t\t\tCorrect Answer: {QuestionAnswerDict[question].AnswerText}\n");
                 Console.ResetColor();
+                //Console.Clear();
             }
         }
     }

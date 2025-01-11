@@ -28,6 +28,7 @@ namespace ExaminationProject
        
         public override void showExam()
         {
+            StudentMarks = 0;
             Console.WriteLine("\t\t\t\t\t\tFinal Exam");
             foreach (var question in QuestionAnswerDict.Keys)
             {
@@ -38,7 +39,9 @@ namespace ExaminationProject
                 {
                     StudentMarks++;
                 }
+                //Console.Clear();
             }
+
         }
 
        

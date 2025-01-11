@@ -19,8 +19,12 @@ namespace ExaminationProject
         public override void DisplayQuestion()
         {
 
-            Console.WriteLine($"\t\t\t\t{Header}\n\t\t\t\t{Body}-{Mark} Marks\n\t\t\t\t\t\t1. True\n\t\t\t\t\t\t2. False");
+            Console.WriteLine($"\t\t\t\t{Header}\n\t\t\t\t{Body} {Mark} Marks\n\t\t\t\t\t\t1. True\n\t\t\t\t\t\t2. False");
+          
         }
-
+        public override string GetQuestionType()
+        {
+            return "TrueFalse";
+        }
     }
 }

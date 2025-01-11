@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ExaminationProject\\ExaminationProject.csproj": {}
+    "C:\\Users\\CONNECT\\Desktop\\Examination-System\\ExaminationProject\\ExaminationProject.csproj": {}
   },
   "projects": {
-    "D:\\ExaminationProject\\ExaminationProject.csproj": {
+    "C:\\Users\\CONNECT\\Desktop\\Examination-System\\ExaminationProject\\ExaminationProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ExaminationProject\\ExaminationProject.csproj",
+        "projectUniqueName": "C:\\Users\\CONNECT\\Desktop\\Examination-System\\ExaminationProject\\ExaminationProject.csproj",
         "projectName": "ExaminationProject",
-        "projectPath": "D:\\ExaminationProject\\ExaminationProject.csproj",
+        "projectPath": "C:\\Users\\CONNECT\\Desktop\\Examination-System\\ExaminationProject\\ExaminationProject.csproj",
         "packagesPath": "C:\\Users\\CONNECT\\.nuget\\packages\\",
-        "outputPath": "D:\\ExaminationProject\\obj\\",
+        "outputPath": "C:\\Users\\CONNECT\\Desktop\\Examination-System\\ExaminationProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CONNECT\\AppData\\Roaming\\NuGet\\NuGet.Config",

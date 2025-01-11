@@ -27,6 +27,7 @@ namespace ExaminationProject
         }
 
         public abstract void DisplayQuestion();
+        public abstract string GetQuestionType();
 
 
     }

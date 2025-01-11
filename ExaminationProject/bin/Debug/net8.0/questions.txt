@@ -1,0 +1,10 @@
+TrueFalse|Q1:|C# supports OOP principles?|1|True,False
+MultipleChoice|Q2:|Which of these is NOT a C# data type?|1|bool,float,integer
+TrueFalse|Q3:|C# is case-sensitive?|1|True,False
+MultipleChoice|Q4:|What is the correct way to declare a constant in C#?|1|const int num = 5;,int const num = 5;,constant int num = 5;
+TrueFalse|Q5:|Namespaces are used to organize code in C#?|1|True,False
+MultipleChoice|Q6:|Which of these is used to handle exceptions in C#?|1|try-catch,if-else,for loop
+TrueFalse|Q7:|C# supports multiple inheritance directly?|1|True,False
+MultipleChoice|Q8:|Which keyword is used to create an abstract class in C#?|1|abstract,virtual,override
+TrueFalse|Q9:|The 'static' keyword is used for creating shared members?|1|True,False
+MultipleChoice|Q10:|What does the 'using' directive in C# do?|1|Imports namespaces,Declares variables,Creates classes
